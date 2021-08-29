@@ -1,0 +1,22 @@
+:root{
+  
+  text-align: center;
+  font-size: 2rem;
+ 
+  background-size: contain;
+}
+#userName{
+  width: 12rem;
+  height: 1.5rem;
+  margin: 15px 0px 15px 0px;
+}
+body{
+  background-color: rgb(106, 223, 231);
+  height: 100vh;
+font-family: 'Lobster', cursive;
+}
+strong{
+  font-family: 'Concert One', cursive;
+
+}
+
